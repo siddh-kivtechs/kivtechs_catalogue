@@ -7,7 +7,25 @@ const productDetails = [
   qty: 1,
   heading: "Chatbot",
   des:
-  " Project CATALONA CHATBOT" }];
+  " Project CATALONA CHATBOT 3a" },
+{
+  name: "CATALONA CHATBOT  ct-3b",
+  price: 600,
+  imageUrl:
+  "https://siddh-kivtechs.github.io/image/ai-generated-7963097.webp",
+  qty: 1,
+  heading: "Chatbot",
+  des:
+  " Project CATALONA CHATBOT 3b" },
+{
+  name: "CATALONA CHATBOT  ct-3c",
+  price: 800,
+  imageUrl:
+  "https://siddh-kivtechs.github.io/image/woman-7837348.webp",
+  qty: 1,
+  heading: "Chatbot",
+  des:
+  " Project CATALONA CHATBOT 3c" }];
 
 
 
